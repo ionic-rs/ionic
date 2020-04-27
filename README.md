@@ -1,2 +1,2 @@
 # ionic
-IONIC web server
+IONIC Web Server
